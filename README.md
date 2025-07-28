@@ -11,6 +11,6 @@
 `React` `Node.js` `Express` `MongoDB` `Docker` `AWS` `Socket.IO`
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ShambhoJaybhaye&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shambhogit&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/ShambhoJaybhaye/ShambhoJaybhaye/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shambhogit/Shambhogit/blob/output/github-contribution-grid-snake.svg)
